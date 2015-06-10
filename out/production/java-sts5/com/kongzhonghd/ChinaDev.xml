@@ -1,0 +1,11 @@
+<Config>
+    <AddressList>
+        <Address IP="10.53.69.35" Port="6601"/>
+        <Address IP="10.53.69.36" Port="6601"/>
+    </AddressList>
+    <PortalGate>GameGate</PortalGate>
+    <ProgramId>112</ProgramId>
+    <BuildId>1000</BuildId>
+    <PoolSize>2</PoolSize>
+    <EnableStatisticsReport>true</EnableStatisticsReport>
+</Config>

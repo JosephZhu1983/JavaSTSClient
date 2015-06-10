@@ -1,0 +1,27 @@
+<Config>
+	<Portals>
+	<!-- 	<Portal IP="10.53.69.35" Port="6601" PoolSize="1" /> -->
+		<Portal IP="10.53.69.36" Port="6601" PoolSize="1" />
+
+	<!-- 	<Portal IP="10.55.69.35" Port="6601" PoolSize="1" /> -->
+		<!-- <Portal IP="10.55.69.36" Port="6601" PoolSize="1" /> -->
+
+		<!-- <Portal IP="10.54.69.35" Port="6601" PoolSize="1" /> -->
+		<Portal IP="10.54.69.36" Port="6601" PoolSize="1" />
+	</Portals>
+	<CustomProtocolNamespace>Game.kz.Auth</CustomProtocolNamespace>
+	<PortalGate>GameGate</PortalGate>
+	<ProgramId>402</ProgramId>
+	<BuildId>1000</BuildId>
+	<ProductTypeId>1000</ProductTypeId>
+	<AppIndex>2</AppIndex>
+	<MessageHandlerThreadPoolSize>1</MessageHandlerThreadPoolSize>
+	<TaskExecutorThreadPoolSize>1</TaskExecutorThreadPoolSize>
+	<AsyncTaskThreadPoolSize>1</AsyncTaskThreadPoolSize>
+	<TaskExecutionTimeoutSeconds>20</TaskExecutionTimeoutSeconds>
+	<ReplyTimeoutSeconds>35</ReplyTimeoutSeconds>
+	<AutoPingSeconds>30</AutoPingSeconds>
+	<EnableStatisticsReport>false</EnableStatisticsReport>
+	<ReportStatisticsSeconds>10</ReportStatisticsSeconds>
+</Config>
+
